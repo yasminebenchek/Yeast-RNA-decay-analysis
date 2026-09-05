@@ -1,7 +1,7 @@
 Package: yeastRNAdecayAnalysis
 Title: Reproducible Analysis of Yeast RNA Decay During Glucose Adaptation
 Version: 0.1.0
-Authors@R: person("Jemma", "Caulfield", email = "", role = c("aut", "cre"))
+Authors@R: person("Yasmine", "Benchekroun", email = "", role = c("aut", "cre"))
 Description: R workflow for analysing yeast SLAM-seq/RNA decay data, including DESeq2 differential expression, RNA half-life estimation, motif preparation, codon usage, and poly(A) tail comparisons.
 License: file LICENSE
 Encoding: UTF-8
